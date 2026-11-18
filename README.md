@@ -2,7 +2,7 @@
 
 I design how online shops connect with the systems that run the business, and keep them fast and up to date.
 
-Nearly 12 years in software development, with 10+ years in Magento and Adobe Commerce. Since 2021, Tech Lead at a German Hyvä partner agency, leading a team of 4–6 developers across 19 merchant shops.
+Nearly 12 years in software development, with 10+ years in Magento and Adobe Commerce. Since 2021, Tech Lead at a German Hyvä partner agency.
 
 ## Architecture & Backend
 
